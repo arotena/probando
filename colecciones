@@ -1,1 +1,4 @@
-Only You Hotel Atocha
+{
+"title": "This is just a title",
+"entries": ["This is the first one", "This is the second one"]
+}
